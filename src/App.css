@@ -1,0 +1,42 @@
+.crypo {
+  background-color: #f2f2f2;
+}
+
+.App {
+  text-align: center;
+}
+
+table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: rgb(61, 245, 162);
+  color: #667085;
+}
+.sorted-column {
+  background-color:rgb(224, 241, 233);
+}
+
